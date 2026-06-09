@@ -132,7 +132,7 @@ All rule changes must be fully traceable and supported by:
 
 ## Ownership
 
-Framework Owner: Financial Crime Compliance
+Framework Owner: Judah Odida
 
 Review Frequency: Annual
 
