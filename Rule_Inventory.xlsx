@@ -1,1 +1,3 @@
-
+Rule ID	Rule Name	Rule Category	Risk Type	Scenario Description	Threshold/Parameter	Risk Rating	Status	Rule Owner	Implementation Date	Last Review Date	Next Review Date
+TM001	Large Cash Deposit	Cash Monitoring	Money Laundering	Detect customers making large cash deposits	KES 1,000,000	High	Active	Compliance	01-Jan-2026	01-Jun-2026	01-Dec-2026
+TM002	Structuring Detection	Cash Monitoring	Money Laundering	Detect multiple cash deposits below reporting threshold	5 deposits in 7 days	High	Active	Compliance	01-Jan-2026	01-Jun-2026	01-Dec-2026
